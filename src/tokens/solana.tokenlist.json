@@ -1,11 +1,11 @@
 {
     "chainId": 101,
-    "address": "BIGMAGAHAT",
-    "symbol": "MAGAHAT",
+    "address": "6ztLJgJS4K4reLJctLU7Y2QGgqdrsVqLpPoCsswDwsuB",
+    "symbol": "BIGMAGAHAT",
     "name": "ELON WIF BIG MAGA HAT",
     "decimals": 9,
     "logoURI": "https://your-logo-url.com/logo.png",
-    "tags": ["utility-token"],
+    "tags": ["meme-token"],
     "extensions": {
         "description": "ELON WIF BIG MAGA HAT COIN",
         "twitter": "https://twitter.com/YOUR_TWITTER",
